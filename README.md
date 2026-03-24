@@ -1,3 +1,9 @@
+# SchoolBell (جرس المؤسسة)
+Modernizing school infrastructure doesn't always require expensive industrial equipment. This tutorial explains how to transform a standard Android smartphone into a dedicated "Android Server" to manage a smart school bell system.
+
+By leveraging Tuya smart sockets and a custom mobile application, you can automate school periods, manage seasonal schedules like Ramadan or Summer time, and even automate the server's own power management to protect its battery—all through a localized, cost-effective setup.
+
+
 🛠️ Requirements
 Android Server: An Android phone to act as the "brain" (Hotspot + Controller).
 
