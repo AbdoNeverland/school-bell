@@ -1,3 +1,4 @@
+![How to](https://raw.githubusercontent.com/AbdoNeverland/school-bell/refs/heads/main/How-it-works.png)
 # SchoolBell (جرس المؤسسة)
 Modernizing school infrastructure doesn't always require expensive industrial equipment. This tutorial explains how to transform a standard Android smartphone into a dedicated "Android Server" to manage a smart school bell system.
 
