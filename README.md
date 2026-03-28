@@ -4,7 +4,7 @@ Modernizing school infrastructure doesn't always require expensive industrial eq
 
 By leveraging Tuya smart sockets and a custom mobile application, you can automate school periods, manage seasonal schedules like Ramadan or Summer time, and even automate the server's own power management to protect its battery—all through a localized, cost-effective setup.
 
-Line one[enter][enter]Line two
+
 🛠️ Requirements
 Android Server: An Android phone to act as the "brain" (Hotspot + Controller).
 
@@ -17,7 +17,7 @@ Personal Phone: For initial Tuya setup.
 PC/Laptop: To extract the local "Device Key" using Python.
 
 School Bell App: Installed on the Android Server.
-Line one[enter][enter]Line two
+
 📝 Step-by-Step Implementation
 Phase 1: Network Configuration
 The goal is to make the socket "think" the Android Server is a home Wi-Fi router.
@@ -66,7 +66,7 @@ Enter the Device ID and the Local Key (Password) you just found.
 Tap Search for IP (Ensure the Hotspot is active). The app will find the socket's local address on the hotspot network.
 
 Test: Press the On/Off buttons in the app. You should hear the socket click.
-Line one[enter][enter]Line two
+
 ⚡ Hardware Integration & Features
 Wiring the System
 Switch 1: Plug the Electric Bell here. This will handle the ringing schedules.
@@ -84,6 +84,6 @@ You can configure the ringing patterns for different seasonal needs:
 Winter/Summer Time: Standard school hours.
 
 Ramadan Mode: Reduced hours or shifted schedules.
-Line one[enter][enter]Line two
+
 [!CAUTION]
 Important Note: If you re-pair the socket to a different phone or reset it, the Local Key will change. You will need to run the TinyTuya wizard again to get the new key.
